@@ -15,3 +15,5 @@ A company pays its employees on a weekly basis. The employees are of four types:
 
 ### Output Result
 <img src="images/ch10_4.png" >
+
+That's all, Thanks for reading ^^
